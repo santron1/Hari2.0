@@ -1,7 +1,3 @@
-Below is a complete, polished, professional-quality README.md for your GitHub repository of the HARI agricultural robot, integrating the full context from your LinkedIn post + your robotic arm & sensor code.
-It is formatted cleanly, with sections, images placeholders, architecture diagrams, and code instructions.
-
-
 ---
 
 🌱🤖 HARI – An Intelligent Agricultural Robot
